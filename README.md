@@ -46,7 +46,7 @@
     <hr style="border: 2px solid blue;">
     <iframe src="https://giphy.com/embed/aOften89vRbG" width="80" height="80" frameBorder="2" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/deal-with-it-sunglasses-email-aOften89vRbG"></a>
 
-    <a href="mailto:azizyagubov@icloud.com">E-MAIL: mailto:lavrovlev2017@gmail.com</a>
+    <a href="mailto:lavrovlev2017@gmail.com">E-MAIL: lavrovlev2017@gmail.com</a>
 
 
 </body>
