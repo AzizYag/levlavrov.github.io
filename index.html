@@ -33,7 +33,7 @@
             <p style="text-align: right; margin: 0; padding: 0">терминами.</p>
         </div>
         <div class="image">
-            <img src="menu.jpeg" width="200" height="200">
+            <img src="c.jpeg" width="200" height="200">
         </div>
     </div>
 
